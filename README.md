@@ -23,16 +23,17 @@ You have finished setting up LTMEAT Print.
 > You will then need to do this every time you reconfigure print settings
 ## After First time setup
 1. Find the extension you want to freeze
-2. Go to the largest extension page you can find of it (it will be in a list bellow)
-3. Next you will want to open the print dialog from before
-4. Once it finishes loading how many pages there are you will want to hit save
-5. Then hit ctrl + shift + r (hard reset)
-6. And lastly duplicate the tab
-7. You will then want to open a new tab
-8. Then hit the extension icon (puzzle piece) next to the bar with the url
-9. You will then go to manage extensions
-10. Then click details under the extension you want to freeze
-11. Then hit the Allow access to file URLs switch at least twice
+2. Go to the your extension id (chrome-extension://put_extension_id/largest extension page you can find of it (it will be in a list bellow))
+3. If you can't find your extension id go to manage extensions, details under what extension you want to freeze and copy paste the id
+4. Next you will want to open the print dialog from before
+5. Once it finishes loading how many pages there are you will want to hit save
+6. Then hit ctrl + shift + r (hard reset)
+7. And lastly duplicate the tab
+8. You will then want to open a new tab
+9. Then hit the extension icon (puzzle piece) next to the bar with the url
+10. You will then go to manage extensions
+11. Then click details under the extension you want to freeze
+12. Then hit the Allow access to file URLs switch at least twice
 Stuff should now be unblocked. In order for the exploit to work you must keep that tab open but do not need have it visible (you can minimize or hide the tab if wanted)
 ## Biggest extension pages
 - Lightspeed filter agent
