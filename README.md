@@ -1,3 +1,4 @@
+<img src="/assets/meat.png" alt="Meat png" class="center">
 # What this if for
 This is for people who want to freeze extensions using ltmeat print.
 The length of these freezes can depend on the size of the biggest file that you can access without downloading (When you visit it).
