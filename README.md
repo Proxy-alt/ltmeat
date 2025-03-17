@@ -12,12 +12,13 @@ This repo is also for accessing extenstion files (if a file is one line I will o
 > There are a few things you will need to do initally in order to use LTMEAT Print
 ## First Time setup
 1. Go to a new tab
-2. Hit ctrl + p in order to open the print dialog
-3. Next you will put the scale at 200
-4. Set custom margins and put them at the corner
-5. Turn on background graphics
-6. Then set the paper size to a5
-7. If you did everything correctly you should end up with 8 pages
+2. Set to horizonal
+3. Hit ctrl + p in order to open the print dialog
+4. Next you will put the scale at 200
+5. Set custom margins and put them up all the way
+6. Turn on background graphics
+7. Then set the paper size to a5
+8. If you did everything correctly you should end up with 8 pages
 You have finished setting up LTMEAT Print.
 > [!NOTE]
 > You will then need to do this every time you reconfigure print settings
@@ -36,13 +37,13 @@ You have finished setting up LTMEAT Print.
 12. Then hit the Allow access to file URLs switch at least twice
 Stuff should now be unblocked. In order for the exploit to work you must keep that tab open but do not need have it visible (you can minimize or hide the tab if wanted)
 ## Biggest extension pages
-- Lightspeed filter agent
+- Lightspeed filter agent (blocks certain urls and images)
   - Main.js
     - Few Weeks
-- Lightspeed Classroom
+- Lightspeed Classroom (allows teachers to block stuff)
   - Index.js
     - Few hours
-- Lightsped Digital insight agent
+- Lightsped Digital insight agent (lets teachers see stuff)
   - Background.js
     - Few seconds (trying to find bigger file)
 # How to add your blocking extension
